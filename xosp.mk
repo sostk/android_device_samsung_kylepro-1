@@ -6,7 +6,7 @@ $(call inherit-product, vendor/xosp/config/common_full_phone.mk)
 $(call inherit-product, vendor/xosp/config/xosp.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/kyleprods/full_kylepro.mk)
+$(call inherit-product, device/samsung/kylepro/full_kylepro.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := kylepro
