@@ -23,4 +23,4 @@ PRODUCT_MODEL := AOSP on kylepro
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
-$(call inherit-product, device/samsung/kyleprods/device_kylepro.mk)
+$(call inherit-product, device/samsung/kylepro/device_kylepro.mk)
