@@ -20,6 +20,7 @@
 
 ### Notice:
   - Apply patch *PATCH_HEX-7.1.x.diff* to root directory of HEX-7.1.x source code before build
+  
     patch -p1 < device/samsung/kylepro/HEX\ 7.1.x\ patches.diff
 
 ### Other resource:
