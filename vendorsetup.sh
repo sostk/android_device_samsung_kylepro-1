@@ -1,3 +1,3 @@
-for i in eng userdebug user; do
-    add_lunch_combo lineage_kylepro-${i}
-done
+add_lunch_combo hexagon_kylepro-user
+add_lunch_combo hexagon_kylepro-userdebug
+add_lunch_combo hexagon_kylepro-eng
