@@ -182,3 +182,5 @@ TARGET_SPECIFIC_HEADER_PATH                 := device/samsung/kylepro/include
 # SELinux
 BOARD_SEPOLICY_DIRS += \
     device/samsung/kylepro/sepolicy
+
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
